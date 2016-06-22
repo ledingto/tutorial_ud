@@ -6,3 +6,5 @@ These are the additions before the first add.
 These are the additions after having been added to the index.
 
 These are changes after first checking the differences without re-adding to index.
+
+These are changes made only on the “develop” branch.
